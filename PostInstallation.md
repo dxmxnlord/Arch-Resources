@@ -35,11 +35,13 @@ systemctl enable NetworkManager
 - ##### gcc
 - ##### lxappearance
 - ##### fakeroot
+- ##### pulseaudio
 #### Fonts
 - ##### ttf-dejavu
 - ##### ttf-liberation
 - ##### terminus-font
 #### Desktop Environmet
+- ##### plasma
 - ##### i3-gaps
 - ##### i3status
 - ##### dmenu
@@ -57,8 +59,7 @@ systemctl start sddm
 - ##### compton
 - ##### gnome-screenshot
 - ##### light
-- ##### alsautils
-#### yay package
+#### yay packages
 - ##### google-chrome
 
 ### You should have a functional Arch Desktop now!
