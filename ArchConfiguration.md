@@ -29,10 +29,10 @@ polkit.addAdminRule(function(action, subject) {
 ### 3. Fix fonts on Firefox/Chrome
 Just run `fc-cache -rv` 
 ### 4. Change GTK theme and icon theme
-Get a GTK theme and copy it to `/usr/share/themes/`. Icons go to `/usr/share/icons/`
+Get a GTK theme and copy it to `/usr/share/themes/`. Icons go to `/usr/share/icons/`. Change with `lxappearance`
 ### 5. Change SDDM theme
 Get an SDDM theme and copy it to `/usr/share/sddm/themes/`.  
 
 *You can test a theme by running `sddm-greeter --test-mode --theme /usr/share/sddm/themes/<theme>`*  
 
-The default configuration file for SDDM can be found at `/usr/lib/sddm/sddm.conf.d/default.conf`. For any changes, create a configuration file in `/etc/sddm.conf.d/`
+The default configuration file for SDDM can be found at `/usr/lib/sddm/sddm.conf.d/default.conf`. For any changes, create a configuration file in `/etc/sddm.conf.d/` which is a copy of the default config file.
