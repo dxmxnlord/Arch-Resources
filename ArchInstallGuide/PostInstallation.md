@@ -38,6 +38,8 @@ systemctl enable NetworkManager
 - ##### pulseaudio
 - ##### python-pip
 - ##### alsa-utils
+- ##### feh
+- ##### imagemagick
 #### Fonts
 - ##### ttf-dejavu
 - ##### ttf-liberation
