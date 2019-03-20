@@ -73,6 +73,7 @@ echo "127.0.0.1	localhost" >> /etc/hosts
 echo "::1	localhost" >> /etc/hosts
 echo "127.0.1.1	dxmxnlord.localdomain	dxmxnlord" >> /etc/hosts
 ```
+Also, install `dialog` and `wpa_supplicant` to be able to use `wifi-menu`
 - #### Creating users and setting password
 Set the root password
 ```
