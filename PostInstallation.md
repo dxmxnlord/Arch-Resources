@@ -29,6 +29,7 @@ systemctl enable NetworkManager
 - ##### rxvt-unicode
 - ##### gedit
 - ##### ranger
+- ##### git
 #### Desktop Environmet
 - ##### i3-gaps
 - ##### i3status
