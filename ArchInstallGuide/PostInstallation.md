@@ -36,6 +36,8 @@ systemctl enable NetworkManager
 - ##### lxappearance
 - ##### fakeroot
 - ##### pulseaudio
+- ##### python-pip
+- ##### alsa-utils
 #### Fonts
 - ##### ttf-dejavu
 - ##### ttf-liberation
