@@ -84,6 +84,7 @@ Create a new User and add a password
 useradd -m -G wheel,users -s /bin/bash <username>
 passwd <username>
 ```
+Install the `sudo` package to enable sudo permissions to users
 To edit the sudo privileges of the user install `vim` then run `export VISUAL=vim; visudo`.
 Below the line *root ALL=(ALL) ALL* add *<username> ALL=(ALL) ALL* and save the file.
 - #### Microcode for the bootloader
