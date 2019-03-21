@@ -42,6 +42,7 @@ systemctl enable NetworkManager
 - ##### imagemagick
 - ##### autoconf
 - ##### automake
+- ##### pkg-config
 - ##### sublime
 #### Fonts
 - ##### ttf-dejavu
