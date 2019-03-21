@@ -40,6 +40,7 @@ systemctl enable NetworkManager
 - ##### alsa-utils
 - ##### feh
 - ##### imagemagick
+- ##### autoconf
 #### Fonts
 - ##### ttf-dejavu
 - ##### ttf-liberation
@@ -63,6 +64,9 @@ systemctl start sddm
 - ##### compton
 - ##### gnome-screenshot
 - ##### light
+- ##### mplayer
+- ##### ffmpeg
+- ##### mpv
 #### yay packages
 - ##### google-chrome
 
