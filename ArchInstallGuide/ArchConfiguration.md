@@ -36,6 +36,8 @@ Get an SDDM theme and copy it to `/usr/share/sddm/themes/`.
 *You can test a theme by running `sddm-greeter --test-mode --theme /usr/share/sddm/themes/<theme>`*  
 
 The default configuration file for SDDM can be found at `/usr/lib/sddm/sddm.conf.d/default.conf`. For any changes, create a configuration file in `/etc/sddm.conf.d/` which is a copy of the default config file.
+
+Or just go into plasma and do it, you know.
 ### 6. Remove bell
 ```
 xset -b
