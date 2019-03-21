@@ -1,0 +1,56 @@
+!URxvt.font:     xft:Hack:size=8:antialias=true
+!URxvt.boldFont:     xft:Hack:bold:size=8:antialias=true
+
+URxvt.font:     xft:xos4 Terminus:size=8:antialias=true
+URxvt.boldFont:     xft:xos4 Terminus:bold:size=8:antialias=true
+
+URxvt*cursorColor:  #b9b9b9
+URxvt*borderColor:  #101010
+URxvt.internalBorder:  10
+URxvt.scrollBar: false
+URxvt.transparent:   true
+URxvt.shading:      20
+URxvt.letterSpace: -0.5
+URxvt.lineSpace: 2
+URxvt*scrollTtyOutput:  false
+URxvt.keysym.Shift-Up: command:\033]720;1\007
+URxvt.keysym.Shift-Down: command:\033]721;1\007
+
+*colorUL:           #2aa198
+
+! special
+*.foreground:   #b9b9b9
+*.background:   #101010
+*.cursorColor:  #b9b9b9
+
+! black
+*.color0:       #000000
+*.color8:       #000000
+
+! red
+*.color1:       #f4463d
+*.color9:       #f4463d
+
+! green
+*.color2:       #72ea3a
+*.color10:      #72ea3a
+
+! yellow
+*.color3:       #f4f43a
+*.color11:      #f4f43a
+
+! blue
+*.color4:       #393fef
+*.color12:      #393fef
+
+! magenta
+*.color5:       #2aa198
+*.color13:      #2aa198
+
+! cyan
+*.color6:       #3cf2d0
+*.color14:      #3cf2d0
+
+! white
+*.color7:       #FFFFFF
+*.color15:      #FFFFFF
