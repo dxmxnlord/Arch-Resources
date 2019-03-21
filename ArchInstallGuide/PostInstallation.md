@@ -41,6 +41,7 @@ systemctl enable NetworkManager
 - ##### feh
 - ##### imagemagick
 - ##### autoconf
+- ##### automake
 - ##### sublime
 #### Fonts
 - ##### ttf-dejavu
@@ -70,5 +71,7 @@ systemctl start sddm
 - ##### mpv
 #### yay packages
 - ##### google-chrome
+- ##### cava
+- ##### i3lock-color
 
 ### You should have a functional Arch Desktop now!
