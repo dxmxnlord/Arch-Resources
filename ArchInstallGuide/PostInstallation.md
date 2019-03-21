@@ -41,6 +41,7 @@ systemctl enable NetworkManager
 - ##### feh
 - ##### imagemagick
 - ##### autoconf
+- ##### sublime
 #### Fonts
 - ##### ttf-dejavu
 - ##### ttf-liberation
