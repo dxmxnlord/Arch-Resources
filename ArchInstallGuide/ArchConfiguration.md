@@ -42,4 +42,15 @@ Or just go into plasma and do it, you know.
 ```
 xset -b
 ```
-
+### 7. Enable MTP support
+```
+sudo pacman -S mtpfs
+cd ~/Downloads
+git clone https://aur.archlinux.org/jmtpfs.git
+cd jmtpfs/
+makepkg -s
+sudo pacman -U jmtpfs*.tar.xz
+sudo pacman -Sy gvfs-mtp
+sudo pacman -Sy gvfs-gphoto2
+```
+Now reboot your system
