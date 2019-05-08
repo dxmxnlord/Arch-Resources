@@ -33,3 +33,4 @@ export PS1="\[$(tput bold)\]\[$(tput setaf 2)\]\h\[$(tput setaf 7)\] \[$(tput se
 ### 7. Installing i3lock-color
 1. Install `i3lock-color` from the repo
 2. Copy the lock.sh file and call it in the config with a bindsym-exec
+3. Note: sometimes you have to have i3lock installed too but call the i3lock in the x64 or i686 folder, so rename the binary then copy it to your path and call the new binary in the lock.sh (this one calls i3lock) then add a bind-sym exec to lock.sh
