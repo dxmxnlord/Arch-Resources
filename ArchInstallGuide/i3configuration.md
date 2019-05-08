@@ -29,7 +29,7 @@ export PS1="\[$(tput bold)\]\[$(tput setaf 2)\]\h\[$(tput setaf 7)\] \[$(tput se
 4. Install FontAwesome with `yay -S ttf-font-awesome-4`
 4. Install [this font](http://graphicex.com/font/126189-vin-mono-pro-font-family.html)
 5. Install `xdotool`,`acpi`,`wireless_tools`,`jq`
-6. Copy the lemonbar script and the other scripts to i3 folder
+6. Copy the lemonbar script and the other scripts to i3 folder and give them executable permissions
 ### 7. Installing i3lock-color
 1. Install `i3lock-color` from the repo
 2. Copy the lock.sh file and call it in the config with a bindsym-exec
