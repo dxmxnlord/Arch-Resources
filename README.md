@@ -19,3 +19,5 @@ This repository contains 2 things :
 ![Screenshot](Coding.png)
 ### Alternate Theme
 ![Screenshot](Alternate.png)
+### On 32-bit Manjaro
+![Screenshot](Manjaro.png)
