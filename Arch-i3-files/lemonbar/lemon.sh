@@ -168,6 +168,7 @@ color[${count}]=$hexcolor
 done
 
 while true; do
+#     echo -e "%{l}%{B${color[0]}} $(ActiveWorkspace) %{B-}%{F${color[0]} B${bkgd}}\ue0bc%{F- B-}%{F${color[1]} B${bkgd}}\ue0ba%{F- B-}%{B${color[1]}} $(InactiveWorkspace)%{B-}%{F${color[1]} B$bkgd}\ue0bc%{F- B-}" "%{c}%{F${color[2]} B$bkgd}\ue0ba%{F- B-}%{B${color[2]}} $(ActiveWindow) %{B-}%{F${color[2]} B$bkgd}\ue0bc%{F- B-}" "%{r}%{F${color[3]}}%{B$bkgd}\ue0ba%{F-}%{B-}%{B${color[3]}} $(Disk) %{B-}%{F${color[3]}}%{B${bkgd}}\ue0bc%{F-}%{B-}%{F${color[4]}}%{B${bkgd}}\ue0ba%{F-}%{B-}%{B${color[4]}} $(NetSpeed enp3s0) %{B-}%{F${color[4]}}%{B${bkgd}}\ue0bc%{F-}%{B-}%{F${color[6]}}%{B${bkgd}}\ue0ba%{F-}%{B-}%{B${color[6]}} $(Volume) %{B-}%{F${color[6]}}%{B${bkgd}}\ue0bc%{B-}%{F-}%{F${color[7]}}%{B${bkgd}}\ue0ba%{F-}%{B-}%{B${color[7]}} $(Date)  $(Time) %{B-}"
     echo -e "%{l}%{B${color[0]}} $(ActiveWorkspace) %{B-}%{F${color[0]} B${color[1]}}\ue0b0%{F- B-}%{B${color[1]}} $(InactiveWorkspace)%{B-}%{F${color[1]} B$bkgd}\ue0b0%{F- B-}" "%{c}%{F${color[2]} B$bkgd}\ue0b2%{F- B-}%{B${color[2]}} $(ActiveWindow) %{B-}%{F${color[2]} B$bkgd}\ue0b0%{F- B-}" "%{r}%{F${color[3]}}%{B$bkgd}\ue0b2%{F-}%{B-}%{B${color[3]}} $(Disk) %{B-}%{F${color[4]}}%{B${color[3]}}\ue0b2%{F-}%{B-}%{B${color[4]}} $(Wifi) %{B-}%{F${color[5]}}%{B${color[4]}}\ue0b2%{F-}%{B-}%{B${color[5]}} $(Battery) %{B-}%{F${color[6]}}%{B${color[5]}}\ue0b2%{F-}%{B-}%{B${color[6]}} $(Volume) %{B-}%{F${color[7]}}%{B${color[6]}}\ue0b2%{B-}%{F-}%{B${color[7]}} $(Date)  $(Time) %{B-}"
 	sleep 0.1s
 done
