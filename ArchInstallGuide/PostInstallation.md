@@ -36,7 +36,7 @@ systemctl enable NetworkManager
 - ##### lxappearance
 - ##### fakeroot
 - ##### pulseaudio
-- ##### python-pip
+- ##### python3-pip
 - ##### alsa-utils
 - ##### feh
 - ##### imagemagick
