@@ -21,3 +21,5 @@ This repository contains 2 things :
 ![Screenshot](Alternate.png)
 ### On 32-bit Manjaro
 ![Screenshot](Manjaro.png)
+### Arch again
+![Screenshot](arch2.png)
