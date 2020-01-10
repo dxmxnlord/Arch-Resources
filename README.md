@@ -19,7 +19,5 @@ This repository contains 2 things :
 ![Screenshot](Manjaro.png)
 ### Ubuntu
 ![Screenshot](ubuntu.png)
-### While Programming
-![Screenshot](Coding.png)
 ### Alternate Theme
 ![Screenshot](Alternate.png)
