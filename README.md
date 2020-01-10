@@ -19,7 +19,7 @@ This repository contains 2 things :
 ![Screenshot](Coding.png)
 ### Alternate Theme
 ![Screenshot](Alternate.png)
-### On 32-bit Manjaro
+### On 32-bit Manjaro [(gilded)](https://www.reddit.com/r/unixporn/comments/bmubrq/i3gaps_had_a_32bit_pc_at_home_with_xpyuck_so_i/)
 ![Screenshot](Manjaro.png)
-### Arch again
-![Screenshot](arch2.png)
+### Ubuntu
+![Screenshot](ubuntu.png)
